@@ -1,14 +1,14 @@
-# Larry's Bar Copyright Site
+# larrys-bar-game
 
-Static GitHub Pages site for the official copyright and contact page of `賴瑞的調酒研究室`.
+此網站已搬到花火工作室 FireSparkle.Studio 官網。這個 repo 只保留轉址頁，讓舊版 App、App Store 與外部連結自動轉到新網址。
 
-## Files
+- 作品頁：https://firesparkle.com/app/larry-cocktail/
+- 隱私權政策：https://firesparkle.com/app/larry-cocktail/privacy/
+- 支援與聯絡：https://firesparkle.com/app/larry-cocktail/support/
+- 聯絡信箱：firesparkle.studio@gmail.com
 
-- `index.html`: public copyright/contact page
-- `assets/css/styles.css`: visual styling
-- `assets/images/cover.png`: game cover art
-- `assets/images/larry-portrait.png`: Larry portrait art
+轉址規則：網址含 privacy 轉到隱私權政策；含 support、contact 轉到支援與聯絡；含 copyright 轉到支援頁的版權標示；含 terms 轉到 Apple 標準授權條款（EULA）。舊網址的語言（`?lang=`、`/en/`、`/ja/`、`/zh-Hans/`）會帶到新網站。
 
-## Publish
+舊的網站內容保留在 git 歷史中。確認 App Store Connect 與各 App 新版都已改用 firesparkle.com 後，可以到 Settings → Pages 關閉這個網站。
 
-Push this repository to GitHub and enable GitHub Pages from the `main` branch root.
+© 花火工作室 FireSparkle.Studio
